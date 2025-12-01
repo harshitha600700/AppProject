@@ -91,4 +91,3 @@ This project is open source and available for personal use.
 ## Contributing
 
 Feel free to fork this project and submit pull requests for any improvements!
-
